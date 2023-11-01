@@ -1,4 +1,9 @@
+head{
+	text-alight: center;
+}
+
 body {
+	text-align: center;
 	font-family: Monospace, "OCR A Std";
 	background: black;
 	color: white;
