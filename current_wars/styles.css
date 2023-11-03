@@ -1,0 +1,13 @@
+var3 {
+	text-align: left;
+}
+
+body {
+	text-align: center;
+	font-family: Monospace, "OCR A Std";
+	background: black;
+	color: white;
+}
+mark {
+	background: red;
+}
