@@ -1,0 +1,53 @@
+var3 {
+	text-align: left;
+}
+body {
+	background: black;
+	text-align: center;
+	font-family: Monospace, "OCR A Std";
+	font-size: 16px;
+	text-shadow: -1px 1px 0 #000,
+				  1px 1px 0 #000,
+				 1px -1px 0 #000;
+				-1px -1px 0 #000;
+	color: white;
+}
+mark {
+	background: red;
+}
+
+var23 {
+	background: red;
+}
+
+body {
+	background-image: url("./images/background.jpeg");
+	background-clip: !important;
+	background-repeat: no-repeat;
+	background-size: 100% ;
+	background-postion: center top;
+	}
+
+a {
+	text-align: center;
+	font-family: Monospace, "OCR A Std";
+	font-size: 14px;
+	text-shadow: -1px 1px 0 #000,
+				  1px 1px 0 #000,
+				 1px -1px 0 #000;
+	text-shadow:			-1px -1px 0 #000;
+	color: white;
+	background-color: red;
+}
+
+button {
+	background-color: red;
+}
+
+h4 {
+	background-color: red;
+}
+
+hr {
+	background-color: red;
+}
