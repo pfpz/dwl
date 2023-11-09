@@ -21,7 +21,7 @@ var23 {
 }
 
 body {
-	background-image: url("./images/background.jpeg");
+	background-image: url("./images/backgroundjpeg");
 	background-clip: !important;
 	background-repeat: no-repeat;
 	background-size: 100% ;
@@ -44,9 +44,7 @@ button {
 	background-color: red;
 }
 
-h4 {
-	background-color: red;
-}
+
 
 hr {
 	background-color: red;
